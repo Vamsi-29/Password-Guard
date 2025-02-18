@@ -1,10 +1,14 @@
 # Password-Guard
-##PwdGuard - Password Strength Checker
+
+# Password Strength Checker
+PwdGuard 
 
 
 This Python script evaluates the strength of a user-provided password and provides feedback on how to improve it. It categorizes passwords as Weak (Red), Medium (Yellow), or Strong (Green) based on several security criteria, including length, uppercase/lowercase letters, numbers, and special characters.
 
 Key Features:
+
+
 ✅ Strength Analysis – Checks password strength based on security best practices.
 
 
