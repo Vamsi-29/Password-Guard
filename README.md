@@ -20,11 +20,6 @@ Key Features:
 ✅ Improvement Suggestions – Provides tips on strengthening weak passwords.
 
 
-✅ Meaningful Password Generator – Suggests a strong, easy-to-remember password.
-
-
-✅ ASCII Banner & Author Credit – Displays a custom ASCII banner with author and GitHub details.
-
 
 
 The script is useful for both cybersecurity enthusiasts and general users who want to enhance their password security. 🚀
