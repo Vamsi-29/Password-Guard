@@ -1,7 +1,9 @@
 # Password-Guard
 
-# Password Strength Checker
 PwdGuard 
+
+# Password Strength Checker
+
 
 
 This Python script evaluates the strength of a user-provided password and provides feedback on how to improve it. It categorizes passwords as Weak (Red), Medium (Yellow), or Strong (Green) based on several security criteria, including length, uppercase/lowercase letters, numbers, and special characters.
@@ -26,3 +28,14 @@ Key Features:
 
 
 The script is useful for both cybersecurity enthusiasts and general users who want to enhance their password security. 🚀
+
+
+# Usage 
+
+`git clone https://github.com/Vamsi-29/Password-Guard.git `
+
+` cd Password-Guard/ `
+
+`python3 pass-guard.py`
+
+Enter your password to check it's strength
