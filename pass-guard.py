@@ -67,7 +67,7 @@ def main():
 
     """ + Style.RESET_ALL)
     print("Author: Vamsi Krishna")
-    print("GitHub: https://github.com/VK-CyberSec\n")
+    print("GitHub: https://github.com/Vamsi-29\n")
 
     password = input("Enter your password: ")
     strength, suggestions = check_password_strength(password)
